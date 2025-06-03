@@ -11,9 +11,23 @@ const score = 100
 const scoreValue = 100.3
 const isLoggedIn = true
 const outsideTemp = null
-let user email;
+let useremail;
 const id = Symbol('123')
 const anotherID = Symbol('123')
 
 console.log(id === anotherID);
+console.log(typeof id);
+console.log(typeof anotherID);
+
+
+
+const heros = ["Shaktiman", "Naagraj", "doga"];
+let myObj = {
+name: = "Faisal";
+age = 22;
+}
+
+const myFunction = function(){
+console.log("Hello World!");
+}
 
