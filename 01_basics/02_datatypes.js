@@ -20,3 +20,15 @@ let isloggedin = false
 //object
 //array
 //function
+
+
+
+//*******************************************************// 
+//Memory used
+
+// Stack (Primitive)----get copy
+
+// Heap(Non - Primitive)----get reference
+
+
+let myYoutubeName = "XYZ.com"
